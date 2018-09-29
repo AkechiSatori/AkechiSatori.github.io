@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Satori&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://satori.moe/"/>
+  <updated>2018-09-29T18:35:22.000Z</updated>
+  <id>https://satori.moe/</id>
+  
+  <author>
+    <name>Akechi Satori</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://satori.moe/hello-world/"/>
+    <id>https://satori.moe/hello-world/</id>
+    <published>2018-09-29T18:35:22.000Z</published>
+    <updated>2018-09-29T18:35:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
