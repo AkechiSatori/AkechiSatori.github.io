@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/satorimoe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://satori.moe
+  * I am satorimoe (https://keybase.io/satorimoe) on keybase.
+  * I have a public key with fingerprint 4063 B254 ABA4 E0A9 88DA  3515 4B50 4D21 7829 B98E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c272580e4d9ebf322e7066fe5bc7dd9956f7169b46fdc4810a9b6d0a22fc153d0a",
+      "fingerprint": "4063b254aba4e0a988da35154b504d217829b98e",
+      "host": "keybase.io",
+      "key_id": "4b504d217829b98e",
+      "kid": "0101c272580e4d9ebf322e7066fe5bc7dd9956f7169b46fdc4810a9b6d0a22fc153d0a",
+      "uid": "f558bd9946bf6b2cebb1876c13391d19",
+      "username": "satorimoe"
+    },
+    "merkle_root": {
+      "ctime": 1538256363,
+      "hash_meta": "90fc1a4f81cc2da8a6728e06a4b3d83e7c25704dad7de1f818d1218153afa63f",
+      "seqno": 3712983
+    },
+    "revoke": {
+      "sig_ids": [
+        "9ccbef84cb6b470550f1f9b52c06e4b18df945836607b508c22090e77187781a0f"
+      ]
+    },
+    "service": {
+      "hostname": "satori.moe",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538256377,
+  "expire_in": 157680000,
+  "prev": "bac21467295fb6e6855ae69a5db868166d81c1cc9b4bc2ccf698071dd72211e1",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK7AnicrZNtiBVVGMfvbWs3r+3SBwtahZbR/JA3nXNmzsvctWRxXRZKhaAPtXe7
+npfn3J3u7p3rzOy1XVtKqUDKSj8IEmkfKsg1V6QUJGqzPmSJlimERKFLL0SLL2Bg
+GXVmKaLoY/Nl5hz+z//5P78z56P2llwh/8OpVfMv73qV5j89NjqaG5iavbbZkZEe
+c0qbnRrMvWBYQ5JWaqF2So6LXKQww4S74OsApPEwBuZSaoBIxbQOAkINQzSQPjVa
++Ry5IpBUuwJjoxDx7JdTdExYr0LciMN6am19l3oSE19I4YPVc66FRxDxJXF9jRHj
+OJABB1s4FCVZhQ0nRQLLw8ju2UVlLt5/6P/n3KNzdoYQLm2JT6WhEiuQEnFGFfK8
+AGkUZMIE4roYAatORBrF4UgEzkTRGYG4NgyVOIrSjK5Kw0xj/Tkm1KOenVAkQ5UR
+SIUtDVzbW/iGI6WwFlxQhjm4VPjS09wDpjBhdmShmQZkZVwjjLi1E0ZQz9ggCWys
+R07JYwgH3LMJYmhGNciaJ2HVckuc0oATKCXBcF9JKn3mEuIaZAJJsHIp+HY6bQKf
+cI9Sl1nIXGHsBi4wZudmHAnXOIMTWbO4Gao58+yg/gFgeUag6DTiKI1UNGz3h9K0
+kZQyKulYIxNuAln506Iiw7q2P4mtaEKchFHdUrLKfwFjrOjA440whkqYKQij3LVP
+1gea1lIKhZFvsQXESAqUEyKABoJoySlHlGrL1tK15y4VVsrQgLsMac0wRgjQ3wQJ
+tzlFNZsnrNZFOhrbAz02Xb4xly/kWm+6Ibs9ucK8W/+6U1vb237vmy3fMXVk36HO
+El//2VMdx3969MeelR3b7/Xfeu/giuuLbtu+tudXenzV5Mu/7R0//MKdb84/f2Xm
+w4nW831n8q+/07t+stB1csN3J57xet/Y9cWGroV8WfX+/rsfOt3/2rW2af7SknU9
+Q6yzY3xbz4HVn1y51LV6z9ndxYVQb9v97MMPnjtx8txXX68cWPDl1aO5UxsrC7oP
+PLFzx0xcag48/y65/aLsfeXMBy9e2rmp2bdv65qWW8r3jC3b8kjhmwu/fPz0unmD
++R29+8/WTg82bv72/T1Hy0vb0ws/r/1+/9Jp2Nb6nLlLTL19sXumvOjy4sfGZf8a
+/vl9MHl9ovvq4RVbZpfETy7ee6TzgXwL/gP2032c
+=Gq1x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/satorimoe
+
+==================================================================
