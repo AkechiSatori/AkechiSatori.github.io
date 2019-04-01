@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://satori.moe/"/>
-  <updated>2018-09-29T18:35:22.000Z</updated>
+  <updated>2019-04-01T17:29:25.794Z</updated>
   <id>https://satori.moe/</id>
   
   <author>
@@ -17,11 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在 HomeBridge 上使用 WebSocket 开发一个扩展配件</title>
+    <link href="https://satori.moe/homekit-with-raspberry-and-websocket/"/>
+    <id>https://satori.moe/homekit-with-raspberry-and-websocket/</id>
+    <published>2019-04-01T16:55:06.183Z</published>
+    <updated>2019-04-01T17:29:25.794Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/04/02/5ca2431547356.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://satori.moe/hello-world/"/>
     <id>https://satori.moe/hello-world/</id>
-    <published>2018-09-29T18:35:22.000Z</published>
-    <updated>2018-09-29T18:35:22.000Z</updated>
+    <published>2018-09-30T10:41:48.000Z</published>
+    <updated>2018-12-22T13:37:41.918Z</updated>
     
     <summary type="html">
     
