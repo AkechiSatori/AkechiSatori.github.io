@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://satori.moe/"/>
-  <updated>2019-10-14T07:55:27.034Z</updated>
+  <updated>2019-10-14T07:56:05.231Z</updated>
   <id>https://satori.moe/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>米家客户端 API 鉴权信息获取</title>
-    <link href="https://satori.moe/mijia-api-reverse/"/>
-    <id>https://satori.moe/mijia-api-reverse/</id>
-    <published>2019-10-14T05:52:27.622Z</published>
-    <updated>2019-10-14T07:55:27.034Z</updated>
+    <link href="https://satori.moe/mijia-api-authorize-info/"/>
+    <id>https://satori.moe/mijia-api-authorize-info/</id>
+    <published>2019-10-14T05:51:21.174Z</published>
+    <updated>2019-10-14T07:56:05.231Z</updated>
     
     <summary type="html">
     
@@ -32,20 +32,6 @@
           
         
       
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>米家 API 鉴权信息获取</title>
-    <link href="https://satori.moe/mijia-api-authorize-info/"/>
-    <id>https://satori.moe/mijia-api-authorize-info/</id>
-    <published>2019-10-14T05:51:21.174Z</published>
-    <updated>2019-10-14T05:52:14.806Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
