@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://satori.moe/"/>
-  <updated>2019-09-25T16:51:53.700Z</updated>
+  <updated>2019-10-14T07:55:27.034Z</updated>
   <id>https://satori.moe/</id>
   
   <author>
@@ -17,11 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>米家客户端 API 鉴权信息获取</title>
+    <link href="https://satori.moe/mijia-api-reverse/"/>
+    <id>https://satori.moe/mijia-api-reverse/</id>
+    <published>2019-10-14T05:52:27.622Z</published>
+    <updated>2019-10-14T07:55:27.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>米家 API 鉴权信息获取</title>
+    <link href="https://satori.moe/mijia-api-authorize-info/"/>
+    <id>https://satori.moe/mijia-api-authorize-info/</id>
+    <published>2019-10-14T05:51:21.174Z</published>
+    <updated>2019-10-14T05:52:14.806Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>在 HomeBridge 上使用 WebSocket 开发一个扩展配件</title>
     <link href="https://satori.moe/homekit-with-raspberry-and-websocket/"/>
     <id>https://satori.moe/homekit-with-raspberry-and-websocket/</id>
     <published>2019-04-01T16:55:06.183Z</published>
-    <updated>2019-09-25T16:51:53.700Z</updated>
+    <updated>2019-09-25T16:49:00.128Z</updated>
     
     <summary type="html">
     
